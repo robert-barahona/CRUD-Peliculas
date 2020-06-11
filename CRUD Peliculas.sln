@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUD Peliculas", "CRUD Peliculas\CRUD Peliculas.csproj", "{72816611-2258-451D-9A41-1981A0842AB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BEUPelicula", "BEUPelicula\BEUPelicula.csproj", "{7EA9F289-92DA-4493-B04A-D696C0D313AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72816611-2258-451D-9A41-1981A0842AB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72816611-2258-451D-9A41-1981A0842AB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72816611-2258-451D-9A41-1981A0842AB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72816611-2258-451D-9A41-1981A0842AB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EA9F289-92DA-4493-B04A-D696C0D313AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EA9F289-92DA-4493-B04A-D696C0D313AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EA9F289-92DA-4493-B04A-D696C0D313AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EA9F289-92DA-4493-B04A-D696C0D313AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFAED3CC-A4B9-47A1-9835-FAE416B20A2B}
+	EndGlobalSection
+EndGlobal
